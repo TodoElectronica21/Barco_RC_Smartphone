@@ -3,8 +3,6 @@
 En este proyecto construimos un barco aeroplaneador controlado desde un dispositivo Android o iOS.
 
 * Utilizaremos NodeMCU y el chip L293D para el control de los motores.
-
-* Para el control remoto del barco usaremos Blynk.
 * Información sobre la descarga de Blynk y documentación: http://docs.blynk.cc/
 
 # Vídeos para realizar el proyecto:
