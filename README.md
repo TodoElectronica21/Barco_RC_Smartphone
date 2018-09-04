@@ -18,8 +18,9 @@ En este proyecto construimos un barco aeroplaneador controlado desde un disposit
 <br>
 [![Barco-Blynk](https://i.imgur.com/2z82hXl.png)](https://www.youtube.com/watch?v=9IwJIkTxgME&t "Ver vídeo sobre ESP8266")
 <br>
+
 # Materiales necesarios
-<br>
+
 NodeMCU - https://goo.gl/VqBRZ3<br>
 Cables protoboard - https://goo.gl/c7W98x<br>
 Placa protoboard - https://goo.gl/eYxE3p<br>
