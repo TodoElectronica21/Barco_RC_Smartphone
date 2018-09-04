@@ -7,7 +7,7 @@ En este proyecto construimos un barco aeroplaneador controlado desde un disposit
 * Para el control remoto del barco usaremos Blynk.
 * Información sobre la descarga de Blynk y documentación: http://docs.blynk.cc/
 
-* Vídeos con la explicación y el montaje:
+* Vídeos con la explicación y el montaje: <br>
 ------- Parte 1: https://youtu.be/1ZYHInHhkrM
 ------- Parte 2: 
 
