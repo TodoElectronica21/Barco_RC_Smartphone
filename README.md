@@ -21,20 +21,20 @@ En este proyecto construimos un barco aeroplaneador controlado desde un disposit
 [![Barco-Blynk](https://i.imgur.com/2z82hXl.png)](https://www.youtube.com/watch?v=9IwJIkTxgME&t "Ver vídeo sobre ESP8266")
 <br>
 # Materiales necesarios
-
-NodeMCU - https://goo.gl/VqBRZ3
-Cables protoboard - https://goo.gl/c7W98x
-Placa protoboard - https://goo.gl/eYxE3p
-Driver L293D motores - https://goo.gl/JN1KFJ
-Batería Gaoneng - https://goo.gl/PuvUz6
-Batería Giant Power - https://goo.gl/ygSWyt
-Surtido LED colores - https://goo.gl/Psw6pC
-Motor DC - https://goo.gl/B1DoH1
-Servos - https://goo.gl/8xJBvg
-
-Pistola silicona - https://goo.gl/aGTfRH
-Soldador estaño - https://goo.gl/FJM9QZ
-Estaño - https://goo.gl/hcU512
+<br>
+NodeMCU - https://goo.gl/VqBRZ3<br>
+Cables protoboard - https://goo.gl/c7W98x<br>
+Placa protoboard - https://goo.gl/eYxE3p<br>
+Driver L293D motores - https://goo.gl/JN1KFJ<br>
+Batería Gaoneng - https://goo.gl/PuvUz6<br>
+Batería Giant Power - https://goo.gl/ygSWyt<br>
+Surtido LED colores - https://goo.gl/Psw6pC<br>
+Motor DC - https://goo.gl/B1DoH1<br>
+Servos - https://goo.gl/8xJBvg<br>
+<br>
+Pistola silicona - https://goo.gl/aGTfRH<br>
+Soldador estaño - https://goo.gl/FJM9QZ<br>
+Estaño - https://goo.gl/hcU512<br>
 
 # Esquemático del circuito
 
