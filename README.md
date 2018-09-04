@@ -8,8 +8,8 @@ En este proyecto construimos un barco aeroplaneador controlado desde un disposit
 * Información sobre la descarga de Blynk y documentación: http://docs.blynk.cc/
 
 * Vídeos con la explicación y el montaje:
-- Parte 1: https://youtu.be/1ZYHInHhkrM
-- Parte 2: 
+------- Parte 1: https://youtu.be/1ZYHInHhkrM
+------- Parte 2: 
 
 
 # Esquemático del circuito
